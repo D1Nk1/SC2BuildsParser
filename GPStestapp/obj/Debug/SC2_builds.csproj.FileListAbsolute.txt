@@ -1,0 +1,13 @@
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Debug\GPStestapp.exe.config
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Debug\GPStestapp.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Debug\GPStestapp.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\GPStestapp.Builds.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\GPStestapp.Properties.Resources.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\SC2_builds.csproj.GenerateResource.Cache
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\GPStestapp.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\GPStestapp.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\GPStestapp.Deep_guides.resources
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\GPStestapp\GPStestapp\obj\Debug\SC2_builds.csprojResolveAssemblyReference.cache

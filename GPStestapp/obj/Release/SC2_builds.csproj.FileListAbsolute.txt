@@ -1,0 +1,12 @@
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Release\GPStestapp.exe.config
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Release\GPStestapp.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Release\GPStestapp.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Release\HtmlAgilityPack.dll
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\bin\Release\HtmlAgilityPack.xml
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Release\GPStestapp.Builds.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Release\GPStestapp.Deep_guides.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Release\GPStestapp.Properties.Resources.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Release\SC2_builds.csproj.GenerateResource.Cache
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Release\GPStestapp.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\GPStestapp\GPStestapp\obj\Release\GPStestapp.pdb
